@@ -263,13 +263,6 @@ video{
   width: 80%;
   margin: 0 auto;
 }
-/* .carousel{
- width: 650px;
-  height: 400px;
-  margin: 0 auto;
-  position: relative;
-  overflow: hidden;
-} */
 .skills-img{
   max-width: 650px;
   margin: 0 auto;
@@ -382,12 +375,12 @@ textarea{
 .animate.slide{
   transform: translateY(50px);
 }
-.animate.slide-left{
-  transform: translateX(-50px);
+/* .animate.slide{
+  transform: translateY(50px);
 }
-.animate.slide-right{
-  transform: translateX(50px);
-}
+.animate.slide{
+  transform: translateY(50px);
+} */
 .animate.appear{
   opacity: 1;
   transform: none;

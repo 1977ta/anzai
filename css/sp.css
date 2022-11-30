@@ -112,6 +112,9 @@
   .inner li{
     list-style: none;
   }
+  .inner ul{
+    padding: 0;
+  }
   .inner a{
     display: block;
     text-decoration: none;
